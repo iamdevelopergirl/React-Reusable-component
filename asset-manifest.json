@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Reusable-Component/static/css/main.70328b25.chunk.css",
-    "main.js": "/React-Reusable-Component/static/js/main.bd11f673.chunk.js",
-    "main.js.map": "/React-Reusable-Component/static/js/main.bd11f673.chunk.js.map",
-    "runtime-main.js": "/React-Reusable-Component/static/js/runtime-main.54eac0f5.js",
-    "runtime-main.js.map": "/React-Reusable-Component/static/js/runtime-main.54eac0f5.js.map",
-    "static/js/2.dc51bac7.chunk.js": "/React-Reusable-Component/static/js/2.dc51bac7.chunk.js",
-    "static/js/2.dc51bac7.chunk.js.map": "/React-Reusable-Component/static/js/2.dc51bac7.chunk.js.map",
-    "static/js/3.28add3b5.chunk.js": "/React-Reusable-Component/static/js/3.28add3b5.chunk.js",
-    "static/js/3.28add3b5.chunk.js.map": "/React-Reusable-Component/static/js/3.28add3b5.chunk.js.map",
-    "index.html": "/React-Reusable-Component/index.html",
-    "precache-manifest.7953f57bcf45104c791c5fb82e138f73.js": "/React-Reusable-Component/precache-manifest.7953f57bcf45104c791c5fb82e138f73.js",
-    "service-worker.js": "/React-Reusable-Component/service-worker.js",
-    "static/css/main.70328b25.chunk.css.map": "/React-Reusable-Component/static/css/main.70328b25.chunk.css.map",
-    "static/js/2.dc51bac7.chunk.js.LICENSE.txt": "/React-Reusable-Component/static/js/2.dc51bac7.chunk.js.LICENSE.txt"
+    "main.css": "/React-Reusable-component/static/css/main.70328b25.chunk.css",
+    "main.js": "/React-Reusable-component/static/js/main.bd11f673.chunk.js",
+    "main.js.map": "/React-Reusable-component/static/js/main.bd11f673.chunk.js.map",
+    "runtime-main.js": "/React-Reusable-component/static/js/runtime-main.b8250e3e.js",
+    "runtime-main.js.map": "/React-Reusable-component/static/js/runtime-main.b8250e3e.js.map",
+    "static/js/2.00ad2a9f.chunk.js": "/React-Reusable-component/static/js/2.00ad2a9f.chunk.js",
+    "static/js/2.00ad2a9f.chunk.js.map": "/React-Reusable-component/static/js/2.00ad2a9f.chunk.js.map",
+    "static/js/3.28add3b5.chunk.js": "/React-Reusable-component/static/js/3.28add3b5.chunk.js",
+    "static/js/3.28add3b5.chunk.js.map": "/React-Reusable-component/static/js/3.28add3b5.chunk.js.map",
+    "index.html": "/React-Reusable-component/index.html",
+    "precache-manifest.c9330b89eb20c2cda275ccef934e6c8d.js": "/React-Reusable-component/precache-manifest.c9330b89eb20c2cda275ccef934e6c8d.js",
+    "service-worker.js": "/React-Reusable-component/service-worker.js",
+    "static/css/main.70328b25.chunk.css.map": "/React-Reusable-component/static/css/main.70328b25.chunk.css.map",
+    "static/js/2.00ad2a9f.chunk.js.LICENSE.txt": "/React-Reusable-component/static/js/2.00ad2a9f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54eac0f5.js",
-    "static/js/2.dc51bac7.chunk.js",
+    "static/js/runtime-main.b8250e3e.js",
+    "static/js/2.00ad2a9f.chunk.js",
     "static/css/main.70328b25.chunk.css",
     "static/js/main.bd11f673.chunk.js"
   ]
